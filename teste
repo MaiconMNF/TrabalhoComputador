@@ -1,0 +1,9 @@
+pc = 0
+while (pc<256 || memoria[pc]==9999) {
+  ir = memoria[pc];
+  pc++;
+  switch(ir){
+    case 0: ~~~~~~~~
+    break;
+    case 1: ~~~~~~~~
+    break;
